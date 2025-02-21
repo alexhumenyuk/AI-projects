@@ -14,13 +14,15 @@ With 10 epochs and only 2 minutes of training on a GTX 1080 Ti GPU, the model ac
 ## **Usage**
 The model also accepts downloaded images located in the same directory as the Jupyter notebook, although their filenames must be manually added in the last code cell. The code resizes and formats them so that the model can recognize them.
 
-## **Test Images**
+## **Test Images & Results**
 The two test images presented at the end of the script are included in the repository. The current accuracy of the model is enough to classify them correctly. If we want the model to recognize more complex images, more epochs should be used and dropout layers can be added to prevent overfitting (the code to include them is commented).
 
+**Images** 
 <p align="center">
   <img src="Images/test1.jpg" style="width:300px; height:auto;"> <img src="Images/test2.jpg" style="width:200px; height:auto;">
 </p>
 
+**Results**
 <p align="center">
   <img src="Images/result1.png"> <img src="Images/result2.png">
 </p>
