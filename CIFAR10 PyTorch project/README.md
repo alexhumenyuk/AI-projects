@@ -3,7 +3,7 @@
 ## **Description**
 This deep learning project is an implementation of a Convolutional Neural Network (CNN) to classify images into the 10 classes available in the CIFAR-10 dataset. This is a paradigmatic use case for this type of network, which performs much better at this task than a regular artificial neural network.
 
-<img src="/Images/CIFAR-10 website.png">
+<img src="/CIFAR-10 website.png">
 
 ## **Model Architecture**
 This CNN contains two convolutional layers, one pooling layer, and three fully connected layers, the last of which has 10 neurons corresponding to the 10 possible classes in the dataset.
