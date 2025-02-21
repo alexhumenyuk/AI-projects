@@ -17,5 +17,6 @@ The model also accepts downloaded images located in the same directory as the Ju
 ## **Test Images**
 The two test images presented at the end of the script are included in the repository. The current accuracy of the model is enough to classify them correctly. If we want the model to recognize more complex images, more epochs should be used and dropout layers can be added to prevent overfitting (the code to include them is commented).
 
-<img src="Images/test1.jpg"> <img src="Images/test2.jpg">
+<img src="Images/test1.jpg" style="width:300px; height:auto;"> <img src="Images/test2.jpg" style="width:300px; height:auto;">
+
 <img src="Images/result1.png"> <img src="Images/result2.png">
