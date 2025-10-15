@@ -54,6 +54,7 @@ As the images below show, the model detected all 12 peak onsets in the signal wi
 <img src="/Graphs/delta_RH_moving_avg_model.png">
 
 Ground-truth peak positions: [344, 514, 843, 1166, 1504, 1691, 2030, 2362, 2690, 3035, 3380, 3988]
+
 Model-detected peak positions: [340, 510, 842, 1163, 1500, 1686, 2026, 2359, 2686, 3031, 3375, 3983]
 
 <img src="/Graphs/raw_RH_signal_model.png">
