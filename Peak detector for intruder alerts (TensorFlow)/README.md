@@ -2,7 +2,7 @@
 ## Overview
 **Project context** 
 
-  In this project I used real-world sensor data to demonstrate the machine learning (ML) concepts I learned in [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course). The data was originally collected for a room occupancy alarm by biomedical engineering students that are friends of mine. Although they ultimately did not train an ML model, they shared their data with me so that I could finish the project by implementing a logistic regression model with TensorFlow (Keras).
+  In this project I used real-world sensor data to show the machine learning (ML) concepts I learned in [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course). The data was originally collected for a room occupancy alarm by biomedical engineering students that are friends of mine. Although they ultimately did not train an ML model, they shared their data with me so that I could finish the project by implementing a logistic regression model with TensorFlow (Keras).
 
 **Data summary**
 
