@@ -33,7 +33,7 @@ Several features were then extracted from each of these windows as inputs for th
 - First two frequency bins, to detect differences in lower frequencies (since the signal doesn't fluctuate much, meaning that positive windows only have one bump)
 
 <img src="/Peak detector for intruder alerts (TensorFlow)/Graphs/features.png">
-<img src="/Peak detector for intruder alerts (TensorFlow)/Graphs/features_corr_mx.png">
+<img src="/Peak detector for intruder alerts (TensorFlow)/Graphs/feature_corr_mx.png">
 
 Each feature was normalized and grouped together to form an input matrix, with each row containing the six features from each window.
 
